@@ -1,0 +1,86 @@
+body {
+  background: url(milkywayoverbiglakezip1.jpg)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;  
+
+}
+
+#container {
+	width: 100%;
+	height: 100%;
+	background-color: green;
+}
+
+#navbar{
+	height: 65px;
+	width: 100%;
+	background-color: grey;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.menuitems {
+	float: right;
+	margin: 0 auto;
+	padding: 20px;
+	color: white; 
+	font-size: 20px;
+	
+}
+
+#menutitle {
+ 	float: left;
+
+}
+
+#portfoliogrid {
+	position: static;
+	margin: 0 auto;
+	margin-top: 50px;
+	width: 85%;
+	height: 700px;
+	
+}
+
+.portfolioimg {
+	width: 214.5px;
+	height: 214.5px;
+	margin-top: 4px;
+	display: inline-block;
+	background-color: blue;
+	position: static;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+color: #333333;
+font-family: ‘Lucida Console’, Monaco, monospace;
+}
+
+
+
+/*FONT CSS GOES LAST  */
